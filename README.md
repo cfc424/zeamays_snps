@@ -5,3 +5,4 @@ Samples expected from sequencing core 2013-01-10
 
 We download refgen
 http://maizegdb.org into `/share/data/refgen3`
+Adapter file: adapters.fa
